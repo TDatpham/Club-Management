@@ -1,0 +1,421 @@
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.csproj.AssemblyReference.cache
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.main.resources
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.Properties.Resources.resources
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.csproj.GenerateResource.cache
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.csproj.CoreCompileInputs.cache
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\_ClubManagement.exe.config
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\_ClubManagement.exe
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\_ClubManagement.pdb
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.AccessControl.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.Permissions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.Principal.Windows.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.AccessControl.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.Permissions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.csproj.CopyComplete
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.exe
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.pdb
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.exe.config
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.exe
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.pdb
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.AssemblyReference.cache
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.Main.resources
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.Properties.Resources.resources
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.GenerateResource.cache
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.CopyComplete
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.exe
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.pdb
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Login.resources
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\IDEAPAD\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\_ClubManagement.exe.config
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\_ClubManagement.exe
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\_ClubManagement.pdb
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.csproj.AssemblyReference.cache
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Login.resources
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.Main.resources
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.Properties.Resources.resources
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.csproj.GenerateResource.cache
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.csproj.CopyComplete
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.exe
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.pdb
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Account.resources
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Home.resources
+C:\Users\vudep\Downloads\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.KhoiPhucMK.resources
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Buffers.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Memory.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Buffers.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Memory.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vudep\Downloads\_ClubManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Buffers.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Data.SqlClient.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Memory.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Buffers.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Data.SqlClient.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Memory.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Account.resources
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Home.resources
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.KhoiPhucMK.resources
+D:\Desktop\VS_Outputs\_CS\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Login.resources
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\_ClubManagement.exe.config
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\_ClubManagement.exe
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\_ClubManagement.pdb
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\admin\Desktop\_ClubManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Account.resources
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Home.resources
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.KhoiPhucMK.resources
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Login.resources
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.Main.resources
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.Properties.Resources.resources
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.csproj.CopyComplete
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.exe
+C:\Users\admin\Desktop\_ClubManagement\obj\Debug\_ClubManagement.pdb
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.mdf
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement_log.ldf
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.exe.config
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.exe
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\_ClubManagement.pdb
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Buffers.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Memory.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.Identity.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Buffers.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Memory.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.AssemblyReference.cache
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Account.resources
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Home.resources
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.KhoiPhucMK.resources
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.PressentationLayer.Login.resources
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.Main.resources
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.Properties.Resources.resources
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.GenerateResource.cache
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.csproj.CopyComplete
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.exe
+C:\Users\vudep\OneDrive\Máy tính\_ClubManagement\obj\Debug\_ClubManagement.pdb
